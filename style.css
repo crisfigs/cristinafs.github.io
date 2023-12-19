@@ -1,0 +1,47 @@
+/* style.css */
+
+body {
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+nav {
+  display: flex;
+}
+
+nav a {
+  text-decoration: none;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+section {
+  margin-top: 20px;
+}
+
+#hero {
+  text-align: center;
+}
+
+#hero img {
+  width: 50%;
+}
+
+#projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+#projects li {
+  margin-bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
